@@ -33,7 +33,7 @@ Nothing visible in the spreadsheet. No data, no hidden sheets. Saw "Enable Editi
 <img width="1006" height="840" alt="image" src="https://github.com/user-attachments/assets/8f5fb554-f8c0-47ca-b842-1b9b1c63183e" />
 
 2. Ran olevba against the file
-Since there was nothing to see visually, I ran olevba to extract any hidden macros
+<br>Since there was nothing to see visually, I ran olevba to extract any hidden macros
 
 ```bash
 olevba oBfsC4t10n2.xls
