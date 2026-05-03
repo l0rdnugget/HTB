@@ -2,10 +2,8 @@
 
 <br>
 
-**OS:** Linux (Debian)
-
-**Difficulty:** Medium
-
+**OS:** Linux (Debian)  
+**Difficulty:** Medium  
 **Date:** 5/3/26
 
 <br>
