@@ -22,6 +22,6 @@ Documenting my Hack The Box machines and challenges as I work through them. Thes
 
 | Machine | OS | Difficulty | Writeup |
 |---------|-----|------------|---------|
-| Coming soon | | | |
+| Cobblestone | Linux | Insane |[Link](machines/linux/cobblestone/cobblestone.md) |
 
 </div>
