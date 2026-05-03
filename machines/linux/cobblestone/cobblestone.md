@@ -24,6 +24,16 @@ Cobblestone is a Linux box hosting a Minecraft community website with multiple s
 
 ## Recon
 
+<br>
+
+Added the target to /etc/hosts:
+
+```bash
+sudo nano /etc/hosts
+```
+
+<br>
+
 Started with an nmap scan:
 
 ```bash
@@ -35,14 +45,6 @@ Found two open ports:
 Port 22 - SSH (OpenSSH 9.2)
 
 Port 80 - Apache 2.4.62 serving cobblestone.htb
-
-<br>
-
-Added the target to /etc/hosts:
-
-```bash
-echo "10.129.232.170 cobblestone.htb" | sudo tee -a /etc/hosts
-```
 
 <br>
 
