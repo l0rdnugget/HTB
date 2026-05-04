@@ -3,7 +3,7 @@
 <br>
 
 **OS:** Linux (Debian)  
-**Difficulty:** Medium  
+**Difficulty:** Insane  
 **Date:** 5/3/26
 
 <br>
