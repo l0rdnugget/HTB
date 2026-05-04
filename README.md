@@ -22,6 +22,7 @@ Documenting my Hack The Box machines and challenges as I work through them. Thes
 
 | Machine | OS | Difficulty | Writeup |
 |---------|-----|------------|---------|
-| Cobblestone | Linux | Insane |[Link](machines/linux/cobblestone/cobblestone.md) |
+| Cobblestone | Linux | Insane |[Link](machines/linux/cobblestone/cobblestone.md) 
+| WingData | Linux | Easy |[Link](machines/linux/wingdata/wingdata.md) 
 
 </div>
